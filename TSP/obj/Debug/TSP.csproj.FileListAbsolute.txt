@@ -1,0 +1,10 @@
+C:\Users\Chimee\source\repos\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\Chimee\source\repos\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\Chimee\source\repos\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\Chimee\source\repos\TSP\TSP\bin\Debug\Graph.dll
+C:\Users\Chimee\source\repos\TSP\TSP\bin\Debug\TestSet.dll
+C:\Users\Chimee\source\repos\TSP\TSP\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\Chimee\source\repos\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\Chimee\source\repos\TSP\TSP\obj\Debug\TSP.csproj.CopyComplete
+C:\Users\Chimee\source\repos\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\Chimee\source\repos\TSP\TSP\obj\Debug\TSP.pdb
